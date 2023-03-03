@@ -5,3 +5,6 @@ b = 3
 c = a+b
 d = a**b
 e = a/b
+stk = [1,2,3,4,5]
+print(stk)
+
