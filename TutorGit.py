@@ -11,4 +11,4 @@ print("data tambahan",11)
 print("data sekarang",stk)
 print(len(stk))
 print(max(stk))
-print(min(stk))
+
